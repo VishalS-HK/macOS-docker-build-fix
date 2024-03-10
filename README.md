@@ -1,6 +1,6 @@
 # macOS-docker-build-fix
 
-To fix the issue, run the following commands in the given order:
+To fix the "Error load metadata for docker.io "issue, run the following commands in the given order:
 
 1. Remove the Docker config file:
 ```bash
