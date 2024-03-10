@@ -12,7 +12,7 @@ rm ~/.docker/config.json
 sudo rm -rf ~/.docker/buildx
 ```
 
-3.Log out of Docker
+3. Log out of Docker
 ```bash
 docker logout
 ```
